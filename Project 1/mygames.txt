@@ -1,0 +1,8 @@
+[7, 5, 2, 3] total: 17 [10, 2, 3, 8] total: 23
+1
+[9, 7, 5] total: 21 [9, 4, 10] total: 23
+1
+[5, 10, 3] total: 18 [6, 10, 5] total: 21
+-1
+Player Wins: 2 Pushes: 0 Dealer Wins: 1
+Player Wins: 66.66666666666666% Pushes: 0.0% Dealer Wins: 33.33333333333333%

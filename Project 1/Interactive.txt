@@ -1,0 +1,8 @@
+Player Turn:
+|Player Cards: [6, 5] total: 11| Dealer Cards: [10, 2] total: 12|
+hit or stand?
+|Player Cards: [6, 5, 10] total: 21| Dealer Cards: [10, 2] total: 12|
+hit or stand?
+Dealer Turn:
+|Player Cards: [6, 5, 10] total: 21| Dealer Cards: [10, 2, 9] total: 21|
+Push! (Tie)
